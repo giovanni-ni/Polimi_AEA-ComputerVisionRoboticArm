@@ -22,3 +22,7 @@ Il modello allenato con la regressione logistica di scikitlearn ha un'accuratezz
 Si ha un leggero overfitting per Test_size in (0.05, 0.1), mentre è presente overfitting in (0.8, 0.95)
 
 Test_size ottimale: (0.4, 0.5)
+
+
+20/03/2024
+next step: using YOLO to create a neural network
